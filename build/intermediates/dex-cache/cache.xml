@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/fadil/Documents/latihanAPI/VideoTestAPI/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/home/fadil/Documents/latihanAPI/VideoTestAPI/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_79d3e7548a8a1275906eceb65e058f8a7bf77cc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fadil/Documents/latihanAPI/VideoTestAPI/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/home/fadil/Documents/latihanAPI/VideoTestAPI/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_47cc1a46adb71b0c77249bc389484ecde3059044.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fadil/Documents/latihanAPI/VideoTestAPI/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/home/fadil/Documents/latihanAPI/VideoTestAPI/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_5f08f03d18f51df1106d9c04b71a581f018299f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fadil/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/home/fadil/Documents/latihanAPI/VideoTestAPI/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_d9a0a2cee678104181bafaa56c49e73c1c205d54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fadil/Documents/latihanAPI/VideoTestAPI/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/fadil/Documents/latihanAPI/VideoTestAPI/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_cfac2c5b9b02f619432e4fdf579dbf72ed38b3b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fadil/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/home/fadil/Documents/latihanAPI/VideoTestAPI/app/build/intermediates/pre-dexed/debug/okio-1.8.0_cf75265e22bd6f8c043f24308cc7f7eecabf01c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fadil/Documents/latihanAPI/VideoTestAPI/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/home/fadil/Documents/latihanAPI/VideoTestAPI/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_cf2ae2c38a75e46e65d3ba71c695d575c16e2ecf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fadil/Documents/latihanAPI/VideoTestAPI/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/home/fadil/Documents/latihanAPI/VideoTestAPI/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.1_a6cb32a53e7b331fc6e95927a8c62f2c9d4515dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fadil/Documents/latihanAPI/VideoTestAPI/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/home/fadil/Documents/latihanAPI/VideoTestAPI/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_07f29a290fe974b05e9e456383f85715d2308d81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fadil/Documents/latihanAPI/VideoTestAPI/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/home/fadil/Documents/latihanAPI/VideoTestAPI/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.0.1_db43e0bd0ba241f459432ab3147c0c511c5ea6b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fadil/Documents/latihanAPI/VideoTestAPI/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/home/fadil/Documents/latihanAPI/VideoTestAPI/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.1_5ac081e59834d32a49fe31d674d4643be1a05218.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fadil/Documents/latihanAPI/VideoTestAPI/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/home/fadil/Documents/latihanAPI/VideoTestAPI/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_6d263fed6880bb2c3322d118ed2e8685f7e3ec66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fadil/Documents/latihanAPI/VideoTestAPI/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/home/fadil/Documents/latihanAPI/VideoTestAPI/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.1_c045a5b09724f0df158f73a1e3714c072af0741b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fadil/Documents/latihanAPI/VideoTestAPI/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/fadil/Documents/latihanAPI/VideoTestAPI/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_e55236943026c1ffcf0117f62ea7f847e72250bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fadil/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/home/fadil/Documents/latihanAPI/VideoTestAPI/app/build/intermediates/pre-dexed/debug/retrofit-2.1.0_8feca88e3f0dfacc075b45e77c6a2e23d4255ceb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fadil/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.2/f1bc476cc167b18e66c297df599b2377131a8947/gson-2.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="/home/fadil/Documents/latihanAPI/VideoTestAPI/app/build/intermediates/pre-dexed/debug/gson-2.6.2_de38be4168be115eb9bc6217155eb5724df819e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fadil/Documents/latihanAPI/VideoTestAPI/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/home/fadil/Documents/latihanAPI/VideoTestAPI/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_88ef4067e238c4c86b3bf7948635f1fa4243f6ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fadil/Documents/latihanAPI/VideoTestAPI/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/home/fadil/Documents/latihanAPI/VideoTestAPI/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_d5da41fbf58b09731f76f4bc7ff446b4bd5f1cc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fadil/Documents/latihanAPI/VideoTestAPI/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/home/fadil/Documents/latihanAPI/VideoTestAPI/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_45c6ed992c4f8925dc7be18daf2ce163b6c6266e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fadil/Documents/latihanAPI/VideoTestAPI/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/home/fadil/Documents/latihanAPI/VideoTestAPI/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_c6bff19a8dc5e8863fc0d46adcf2842cd66a7c23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fadil/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="/home/fadil/Documents/latihanAPI/VideoTestAPI/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.2_eb5f70bdbb7572a384172d2cf26ff761da3ef677.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fadil/Documents/latihanAPI/VideoTestAPI/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/home/fadil/Documents/latihanAPI/VideoTestAPI/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_466d8a79ab4b27728a24e089d9e45e6eb9a8393a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fadil/Documents/latihanAPI/VideoTestAPI/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/home/fadil/Documents/latihanAPI/VideoTestAPI/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_5be80952312f461391e42aa454c51bc6aedd1bf6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fadil/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/home/fadil/Documents/latihanAPI/VideoTestAPI/app/build/intermediates/pre-dexed/debug/okhttp-3.3.0_01f28cec1af3406dcac2dfad7212c1987ec56147.jar" />
+    </item>
+
+</items>
